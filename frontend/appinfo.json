@@ -1,0 +1,17 @@
+{
+    "appDescription": "Unofficial ultrawide webOS client for Jellyfin servers.",
+    "icon": "assets/icon-80.png",
+    "main": "index.html",
+    "bgImage": "assets/splash.png",
+    "title": "Ultrawide Client",
+    "type": "web",
+    "version": "1.2.2",
+    "splashBackground": "assets/splash.png",
+    "bgColor": "#171945",
+    "vendor": "Community fork",
+    "largeIcon": "assets/icon-130.png",
+    "iconColor": "#171945",
+    "id": "com.antoine.ultrawideclient",
+    "resolution": "3440x1440",
+    "disableBackHistoryAPI": true
+}

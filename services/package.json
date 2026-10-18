@@ -1,0 +1,5 @@
+{
+  "name": "com.antoine.ultrawideclient.service",
+  "description": "Media server discovery service",
+  "main": "service.js"
+}
